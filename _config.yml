@@ -1,0 +1,9 @@
+title: "AI, Society and Governance"
+description: "Workshop on AI, Society and Governance"
+url: "https://ai-society-governance.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+exclude:
+  - README.md
