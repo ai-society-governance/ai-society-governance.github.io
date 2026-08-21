@@ -26,10 +26,6 @@ h3 {
   color: var(--text);
 }
 
-main {
-  color: var(--text);
-}
-
 .container {
   width: min(90%, var(--max-width));
   margin: 0 auto;
