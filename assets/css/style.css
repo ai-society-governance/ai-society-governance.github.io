@@ -73,10 +73,6 @@ h3 {
     flex-wrap: wrap;
   }
 }
-.container {
-  width: min(90%, var(--max-width));
-  margin: 0 auto;
-}
 
 .site-header {
   position: sticky;
