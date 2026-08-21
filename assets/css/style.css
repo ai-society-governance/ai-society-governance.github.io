@@ -26,6 +26,53 @@ h3 {
   color: var(--text);
 }
 
+.institutional-support {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 4rem;
+  align-items: start;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.support-heading {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+.organized-by img {
+  max-width: 220px;
+  max-height: 90px;
+  width: auto;
+  height: auto;
+}
+
+.financial-logos {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.financial-logos img {
+  max-width: 170px;
+  max-height: 70px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 650px) {
+  .institutional-support {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .financial-logos {
+    flex-wrap: wrap;
+  }
+}
 .container {
   width: min(90%, var(--max-width));
   margin: 0 auto;
