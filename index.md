@@ -6,7 +6,8 @@ title:
 # Workshop on AI, Society and Governance
 
 <div class="event-meta">
-Paris · January 2027
+January 21-22, 2027 · Paris  
+Université Paris 1 Panthéon-Sorbonne
 </div>
 
 ## Overview
