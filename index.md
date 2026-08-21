@@ -12,9 +12,9 @@ title:
 
 ## Overview
 
-Artificial intelligence increasingly shapes the production, dissemination, and use of information in society. Yet AI is not simply an exogenous technology acting upon social, economic, and political systems: it both shapes and is shaped by human behaviour, institutions, and information environments.
+Artificial intelligence increasingly shapes the production, dissemination, and use of information in society. Yet AI is not simply an exogenous technology acting upon social, economic, and political systems. It both shapes and is shaped by human behaviour, institutions, and information environments.
 
-The Workshop on AI, Society and Governance brings together researchers from economics, political science, law, computer science, mathematics and related disciplines to study these interactions and their implications. Topics include information quality, human & AI interactions, collective decision-making, markets and strategic interactions, democratic processes, AI governance and regulation, and systemic risks.
+The Workshop on AI, Society and Governance brings together researchers from economics, political science, law, computer science, mathematics and related disciplines to study these interactions and their implications. Topics include information quality, human & AI interactions, collective decision-making, markets and strategic interactions, democratic processes, AI governance and regulation and systemic risks.
 
 The workshop aims to foster dialogue across disciplines and between academia, public institutions, and industry. A roundtable with regulators, policymakers, and practitioners will complement the academic program.
 
@@ -29,7 +29,7 @@ A poster session will be held during the lunch break. If you would like to prese
 ## Organizers
 
 **[Olivier Bos](https://olivier-bos.com/)** — ENS Paris-Saclay, Centre for Economics at Paris-Saclay  
-**[Xiangyu Qu](https://xiangyuqu.weebly.com/)** — CNRS, Centre d'Économie de la Sorbonne  
+**[Xiangyu Qu](https://xiangyuqu.weebly.com/)** — CNRS, Centre d'Economie de la Sorbonne  
 **[Stefano Bosi](https://scholar.google.com/citations?user=H46wkVMAAAAJ&hl=fr)** — University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay  
 **[Thái Hà-Huy](https://sites.google.com/view/thai-ha-huy/)** — University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay
 
