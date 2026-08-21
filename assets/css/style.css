@@ -26,6 +26,58 @@ h3 {
   color: var(--text);
 }
 
+.institutional-support {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 3.5rem;
+  align-items: start;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.support-heading {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+.host-institution img {
+  width: auto;
+  height: 70px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.financial-logos {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.financial-logos img {
+  width: auto;
+  height: 70px;
+  max-width: 45%;
+  object-fit: contain;
+}
+
+@media (max-width: 650px) {
+  .institutional-support {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .financial-logos {
+    gap: 1.5rem;
+  }
+
+  .host-institution img,
+  .financial-logos img {
+    height: 55px;
+  }
+}
+
 .site-header {
   position: sticky;
   top: 0;
