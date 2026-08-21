@@ -21,7 +21,10 @@ Speaker list forthcoming.
 
 ## Organizers
 
-Organizer information forthcoming.
+**[Olivier Bos](https://olivier-bos.com/)** — ENS Paris-Saclay, Centre for Economics at Paris-Saclay  
+**[Xiangyu Qu](https://xiangyuqu.weebly.com/)** — CNRS, Centre d'Économie de la Sorbonne  
+**[Stefano Bosi](https://scholar.google.com/citations?user=H46wkVMAAAAJ&hl=fr)** — University of Évry Paris-Saclay, Centre for Economics at Paris-Saclay  
+**[Thái Hà-Huy](https://sites.google.com/view/thai-ha-huy/)** — University of Évry Paris-Saclay, Centre for Economics at Paris-Saclay
 
 ## Commitment to Sustainability, Equity, and Inclusion
 
