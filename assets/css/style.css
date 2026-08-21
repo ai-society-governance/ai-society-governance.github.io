@@ -18,6 +18,10 @@ body {
   font-size: 17px;
 }
 
+main {
+  color: var(--text);
+}
+
 .container {
   width: min(90%, var(--max-width));
   margin: 0 auto;
