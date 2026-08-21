@@ -32,3 +32,23 @@ The organizers aim to make the workshop an enriching and intellectually challeng
 **Equity and inclusion.** We are committed to providing a harassment-free and inclusive environment. Everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, ethnicity, religion, or status, should feel welcome and comfortable at all times, both during the workshop and associated social events.
 
 If you encounter any issue, please do not hesitate to contact the **ENS Paris-Saclay equality representative**, Claire Lambard, *chargée de mission égalité*, at **mission.egalite [at] ens-paris-saclay.fr**.
+
+<div class="institutional-support">
+
+  <div class="organized-by">
+    <p class="support-heading">Organized by</p>
+    <img src="/assets/images/ceps-logo.png"
+         alt="Centre for Economics at Paris-Saclay">
+  </div>
+
+  <div class="financial-support">
+    <p class="support-heading">With financial support from</p>
+    <div class="financial-logos">
+      <img src="/assets/images/dataia-logo.png"
+           alt="DataIA">
+      <img src="/assets/images/gs-economics-management-logo.png"
+           alt="Graduate School Economics & Management">
+    </div>
+  </div>
+
+</div>
