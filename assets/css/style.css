@@ -93,15 +93,6 @@ a {
   color: inherit;
 }
 
-main a {
-  color: var(--accent);
-  text-decoration: none;
-}
-
-main a:hover {
-  text-decoration: underline;
-}
-
 .event-meta {
   color: var(--muted);
   font-size: 1.05rem;
