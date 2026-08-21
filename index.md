@@ -43,7 +43,7 @@ If you encounter any issue, please do not hesitate to contact the **ENS Paris-Sa
   </div>
 
   <div class="financial-support">
-    <p class="support-heading">With generous financial support from</p>
+    <p class="support-heading">Financial support</p>
 
     <div class="financial-logos">
       <img src="/assets/images/dataia-logo.png"
