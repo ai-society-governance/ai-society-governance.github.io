@@ -42,19 +42,26 @@ If you encounter any issue, please do not hesitate to contact the ENS Paris-Sacl
 
   <div class="host-institution">
     <p class="support-heading">An initiative of</p>
-    <img src="/assets/images/ceps-logo.png"
-         alt="Centre for Economics at Paris-Saclay">
+
+<a href="https://www.ceps-paris-saclay.fr/">
+  <img src="/assets/images/ceps-logo.png"
+       alt="Centre for Economics at Paris-Saclay">
+</a>
   </div>
 
   <div class="financial-support">
     <p class="support-heading">Financial support</p>
 
     <div class="financial-logos">
+    <a href="https://www.dataia.eu/en/linstitut-dataia-paris-saclay">
       <img src="/assets/images/dataia-logo.png"
            alt="DataIA">
+    </a>
 
+<a href="[https://www.dataia.eu/en/linstitut-dataia-paris-saclay](https://www.universite-paris-saclay.fr/graduate-schools/economics-management)">
       <img src="/assets/images/gs-economics-management-logo.png"
            alt="Graduate School Economics & Management">
+</a>
     </div>
   </div>
 
