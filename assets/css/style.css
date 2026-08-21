@@ -41,6 +41,14 @@ h3 {
   border-top: 1px solid var(--border);
 }
 
+.host-institution {
+  text-align: left;
+}
+
+.financial-support {
+  text-align: right;
+}
+
 .support-heading {
   color: var(--muted);
   font-size: 0.9rem;
@@ -56,6 +64,7 @@ h3 {
 
 .financial-logos {
   display: flex;
+  justify-content: flex-end;
   align-items: center;
   gap: 2.5rem;
 }
@@ -73,7 +82,12 @@ h3 {
     gap: 2.5rem;
   }
 
+  .financial-support {
+    text-align: left;
+  }
+
   .financial-logos {
+    justify-content: flex-start;
     gap: 1.5rem;
   }
 
