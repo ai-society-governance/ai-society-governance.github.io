@@ -234,3 +234,17 @@ main a:hover {
 .site-footer .container {
   padding: 1.5rem 0;
 }
+
+.event-meta {
+  color: var(--muted);
+  margin-bottom: 3.5rem;
+}
+
+.event-date {
+  font-size: 1.05rem;
+}
+
+.event-location {
+  font-size: 0.95rem;
+  margin-top: 0.15rem;
+}
