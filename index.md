@@ -43,7 +43,6 @@ If you encounter any issue, please do not hesitate to contact the ENS Paris-Sacl
 
 
 <div class="institutional-support">
-
   <div class="host-institution">
     <p class="support-heading">An initiative of</p>
 
