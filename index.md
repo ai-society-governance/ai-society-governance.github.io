@@ -3,10 +3,10 @@ layout: default
 title:
 ---
 
-# AI, Society and Governance
+# Workshop on AI, Society and Governance
 
 <div class="event-meta">
-Workshop · Paris · January 2027
+Paris · January 2027
 </div>
 
 ## Overview
