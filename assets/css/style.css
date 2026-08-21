@@ -72,7 +72,7 @@ h3 {
 .financial-logos img {
   width: auto;
   height: 70px;
-  max-width: 90%;
+  max-width: 100%;
   object-fit: contain;
 }
 
