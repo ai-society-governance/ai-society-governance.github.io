@@ -1,5 +1,6 @@
 :root {
   --text: #202020;
+  --body-text: #3f3f3f;
   --muted: #666;
   --border: #e8e8e8;
   --accent: #00778B;
@@ -12,10 +13,17 @@
 
 body {
   margin: 0;
+  color: var(--body-text);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   background: #fff;
   line-height: 1.65;
   font-size: 17px;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--text);
 }
 
 main {
