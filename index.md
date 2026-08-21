@@ -20,7 +20,7 @@ The workshop aims to foster dialogue across disciplines and between academia, pu
 
 ## Registration
 
-Participation is free, but registration is required. If you would like to attend the workshop, please [register here](URL_DU_FORMULAIRE) by **December XX, 2026**.
+Participation is free, but registration is required. If you would like to attend the workshop, please [register here](URL_DU_FORMULAIRE) by **December XX, 2026**. For any questions, please contact us at [email].
 
 ## Poster session 
 
