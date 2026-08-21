@@ -57,7 +57,7 @@ h3 {
 
 .host-institution img {
   width: auto;
-  height: 85px;
+  height: 70px;
   max-width: 100%;
   object-fit: contain;
 }
@@ -72,7 +72,7 @@ h3 {
 .financial-logos img {
   width: auto;
   height: 85px;
-  max-width: 70%;
+  max-width: 85%;
   object-fit: contain;
 }
 
