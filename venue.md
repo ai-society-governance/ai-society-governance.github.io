@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Venue
+title: 
 permalink: /venue/
 ---
 
@@ -11,12 +11,14 @@ The workshop will take place at:
 **Université Paris 1 Panthéon-Sorbonne**  
 12 Place du Panthéon  
 75005 Paris, France
-
-**Room 6, 2nd floor**
+Room 6, 2nd floor
 
 <img class="venue-map"
      src="/assets/images/pantheon-room-6-map.png"
      alt="Map showing Room 6 at Université Paris 1 Panthéon-Sorbonne">
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.5980262870657!2d2.34267161537228!3d48.84680567928633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671e7a704d51b%3A0x82fad6151293eeed!2s12+Place+du+Panth%C3%A9on%2C+75005+Paris!5e0!3m2!1sfr!2sfr!4v1530094391610" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+       
 
 ## Getting there
 
