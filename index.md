@@ -33,19 +33,22 @@ The organizers aim to make the workshop an enriching and intellectually challeng
 
 If you encounter any issue, please do not hesitate to contact the **ENS Paris-Saclay equality representative**, Claire Lambard, *chargée de mission égalité*, at **[mission.egalite [at] ens-paris-saclay.fr](mailto:mission.egalite@ens-paris-saclay.fr)**.
 
+
 <div class="institutional-support">
 
-  <div class="organized-by">
-    <p class="support-heading">Organized by</p>
+  <div class="host-institution">
+    <p class="support-heading">An initiative of</p>
     <img src="/assets/images/ceps-logo.png"
          alt="Centre for Economics at Paris-Saclay">
   </div>
 
   <div class="financial-support">
-    <p class="support-heading">With financial support from</p>
+    <p class="support-heading">Generously financially support by</p>
+
     <div class="financial-logos">
       <img src="/assets/images/dataia-logo.png"
            alt="DataIA">
+
       <img src="/assets/images/gs-economics-management-logo.png"
            alt="Graduate School Economics & Management">
     </div>
