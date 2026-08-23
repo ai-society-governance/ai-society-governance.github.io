@@ -263,5 +263,5 @@ main a.primary-link:hover {
 }
 
 .organizers .affiliation {
-  color: var(--muted);
+  color: #777;
 }
