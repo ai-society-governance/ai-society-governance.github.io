@@ -257,3 +257,11 @@ main a.primary-link {
 main a.primary-link:hover {
   text-decoration: underline;
 }
+
+.organizers p {
+  margin-bottom: 0.55rem;
+}
+
+.organizers .affiliation {
+  color: var(--muted);
+}
