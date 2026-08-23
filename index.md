@@ -20,11 +20,11 @@ The workshop aims to foster dialogue across disciplines and between academia, pu
 
 ## Registration
 
-Participation is free, but registration is required. If you would like to attend the workshop, please [register here](URL_DU_FORMULAIRE) by **December XX, 2026**. For any questions, please contact us at [email].
+Participation is free, but registration is required. If you would like to attend the workshop, <a class="primary-link" href="URL_REGISTRATION">register here</a> by December XX, 2026. For any questions, please contact us at <a class="primary-link" href="mailto:mail">mail</a>.
 
 ## Poster session 
 
-A poster session will be held during the lunch break. If you would like to present a poster, please submit a title and short abstract to [email] by November 30, 2026. Selection decisions will be communicated shortly thereafter.
+A poster session will be held during the lunch break. If you would like to present a poster, please submit a title and short abstract to a class="primary-link" href="mailto:mail">mail</a> by November 30, 2026. Selection decisions will be communicated shortly thereafter.
 
 ## Organizers
 
