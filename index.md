@@ -16,7 +16,7 @@ Artificial intelligence increasingly shapes the production, dissemination, and u
 
 The Workshop on AI, Society and Governance brings together researchers from economics, political science, law, computer science, mathematics and related disciplines to study these interactions and their implications. Topics include information quality, human & AI interactions, collective decision-making, markets and strategic interactions, democratic processes, AI governance and regulation and systemic risks.
 
-The workshop aims to foster dialogue across disciplines and between academia, public institutions, and industry. A roundtable with regulators, policymakers, and practitioners will complement the academic program.
+The workshop aims to foster dialogue across disciplines and between academia, public institutions, and industry. A roundtable with regulators and industry experts will complement the academic program.
 
 ## Registration
 
@@ -29,16 +29,11 @@ A poster session will be held during the lunch break. If you would like to prese
 ## Organizers
 
 <div class="organizers">
-<p><a href="https://olivier-bos.com/">Olivier Bos</a> <span class="affiliation">— ENS Paris-Saclay, Centre for Economics at Paris-Saclay</span></p>
-<p><a href="https://xiangyuqu.weebly.com/">Xiangyu Qu</a> <span class="affiliation">— CNRS & Centre d’Economie de la Sorbonne</span></p>
-<p><a href="https://scholar.google.com/citations?user=H46wkVMAAAAJ&hl=fr">Stefano Bosi</a> <span class="affiliation">— University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay</span></p>
-<p><a href="https://sites.google.com/view/thai-ha-huy/">Thái Hà-Huy</a> <span class="affiliation">— University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay</span></p>
+<p><a href="https://olivier-bos.com/">Olivier Bos</a> <span class="affiliation">— ENS Paris-Saclay, Centre for Economics at Paris-Saclay</span><br>
+<a href="https://xiangyuqu.weebly.com/">Xiangyu Qu</a> <span class="affiliation">— CNRS & Centre d’Economie de la Sorbonne</span><br>
+<a href="https://scholar.google.com/citations?user=H46wkVMAAAAJ&hl=fr">Stefano Bosi</a> <span class="affiliation">— University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay</span><br>
+<a href="https://sites.google.com/view/thai-ha-huy/">Thái Hà-Huy</a> <span class="affiliation">— University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay</span></p>
 </div>
-
-**[Olivier Bos](https://olivier-bos.com/)** — ENS Paris-Saclay, Centre for Economics at Paris-Saclay  
-**[Xiangyu Qu](https://xiangyuqu.weebly.com/)** — CNRS & Centre d'Economie de la Sorbonne  
-**[Stefano Bosi](https://scholar.google.com/citations?user=H46wkVMAAAAJ&hl=fr)** — University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay  
-**[Thái Hà-Huy](https://sites.google.com/view/thai-ha-huy/)** — University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay
 
 ## Commitment to Sustainability, Equity, and Inclusion
 
