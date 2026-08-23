@@ -248,3 +248,12 @@ main a:hover {
   font-size: 0.95rem;
   margin-top: 0.15rem;
 }
+
+main a.primary-link {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+main a.primary-link:hover {
+  text-decoration: underline;
+}
