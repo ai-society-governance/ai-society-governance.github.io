@@ -17,8 +17,6 @@ Artificial intelligence increasingly shapes the production, dissemination, and u
 The Workshop on AI, Society and Governance brings together researchers from economics, political science, law, computer science, mathematics and related disciplines to study these interactions and their implications. Topics include information quality, human & AI interactions, collective decision-making, markets and strategic interactions, democratic processes, AI governance and regulation and systemic risks.
 
 The workshop aims to foster dialogue across disciplines and between academia, public institutions, and industry. A roundtable with regulators and industry experts will complement the academic program.
-
-<div class="info-box" markdown="1">
   
 ## Registration
 
@@ -27,8 +25,6 @@ Participation is free, but registration is required. If you would like to attend
 ## Poster session 
 
 A poster session will be held during the lunch break. If you would like to present a poster, please <a class="primary-link" href="mailto:mail">email</a> us a title and short abstract by November 30, 2026. Selection decisions will be communicated shortly thereafter.
-
-</div>
 
 ## Organizers
 
@@ -39,8 +35,6 @@ A poster session will be held during the lunch break. If you would like to prese
 <a href="https://sites.google.com/view/thai-ha-huy/">Thái Hà-Huy</a> <span class="affiliation">— University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay</span></p>
 </div>
 
-<div class="commitment-box" markdown="1">
-
 ## Commitment to Sustainability, Equity, and Inclusion
 
 The organizers aim to make the workshop an enriching and intellectually challenging experience for all participants.
@@ -49,8 +43,6 @@ The organizers aim to make the workshop an enriching and intellectually challeng
 
 **Equity and inclusion.** We are committed to providing a harassment-free and inclusive environment. Everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, ethnicity, religion, or status, should feel welcome and comfortable at all times, both during the workshop and associated social events.    
 If you encounter any issue, please do not hesitate to contact the ENS Paris-Saclay equality representative, Claire Lambard, *chargée de mission égalité*, at **[mission.egalite [at] ens-paris-saclay.fr](mailto:mission.egalite@ens-paris-saclay.fr)**.
-
-</div>
 
 <div class="institutional-support">
   <div class="host-institution">
