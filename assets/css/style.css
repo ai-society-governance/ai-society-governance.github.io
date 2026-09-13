@@ -267,7 +267,7 @@ main a.primary-link:hover {
 }
 
 .info-box {
-background: #eef6fc;
+  background: #f4f8fc;
   padding: 1.5rem 1.75rem;
   border-radius: 6px;
   margin: 2.5rem 0;
