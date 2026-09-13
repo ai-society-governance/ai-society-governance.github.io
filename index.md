@@ -18,6 +18,8 @@ The Workshop on AI, Society and Governance brings together researchers from econ
 
 The workshop aims to foster dialogue across disciplines and between academia, public institutions, and industry. A roundtable with regulators and industry experts will complement the academic program.
 
+<div class="info-box" markdown="1">
+  
 ## Registration
 
 Participation is free, but registration is required. If you would like to attend the workshop, <a class="primary-link" href="URL_REGISTRATION">register here</a> by December XX, 2026. If you have any questions, please <a class="primary-link" href="mailto:mail">contact us</a>.
@@ -25,6 +27,8 @@ Participation is free, but registration is required. If you would like to attend
 ## Poster session 
 
 A poster session will be held during the lunch break. If you would like to present a poster, please <a class="primary-link" href="mailto:mail">email</a> us a title and short abstract by November 30, 2026. Selection decisions will be communicated shortly thereafter.
+
+</div>
 
 ## Organizers
 
