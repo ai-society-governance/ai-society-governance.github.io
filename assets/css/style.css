@@ -272,3 +272,11 @@ main a.primary-link:hover {
   border-radius: 6px;
   margin: 2.5rem 0;
 }
+
+.info-box h2:first-child {
+  margin-top: 0;
+}
+
+.info-box h2 {
+  margin-top: 2rem;
+}
