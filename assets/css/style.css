@@ -269,14 +269,14 @@ main a.primary-link:hover {
 .info-box {
   background: #f4f8fc;
   padding: 1.5rem 1.75rem;
-  border-radius: 8px;
+  border-radius: 6.5px;
   margin: 2.5rem 0;
 }
 
 .commitment-box {
   background: #f7f7f7;
   padding: 1.5rem 1.75rem;
-  border-radius: 8px;
+  border-radius: 6.5px;
   margin: 2.5rem 0;
 }
 
