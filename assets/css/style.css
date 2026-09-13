@@ -265,3 +265,10 @@ main a.primary-link:hover {
 .organizers .affiliation {
   color: #777;
 }
+
+.info-box {
+  background: #f7f7f7;
+  padding: 1.5rem 1.75rem;
+  border-radius: 6px;
+  margin: 2.5rem 0;
+}
