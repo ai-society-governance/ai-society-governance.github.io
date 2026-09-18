@@ -31,6 +31,7 @@ A poster session will be held during the lunch break. If you would like to prese
 <div class="organizers">
 <p><a href="https://olivier-bos.com/">Olivier Bos</a> <span class="affiliation">— ENS Paris-Saclay, Centre for Economics at Paris-Saclay</span><br>
 <a href="https://xiangyuqu.weebly.com/">Xiangyu Qu</a> <span class="affiliation">— CNRS & Centre d’Economie de la Sorbonne</span><br>
+<a href="https://shadenshabayek.github.io/">Shaden Shabayek</a> <span class="affiliation">— University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay</span><br>
 <a href="https://scholar.google.com/citations?user=H46wkVMAAAAJ&hl=fr">Stefano Bosi</a> <span class="affiliation">— University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay</span><br>
 <a href="https://sites.google.com/view/thai-ha-huy/">Thái Hà-Huy</a> <span class="affiliation">— University of Evry Paris-Saclay, Centre for Economics at Paris-Saclay</span></p>
 </div>
