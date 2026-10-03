@@ -20,7 +20,7 @@ The workshop aims to foster dialogue across disciplines and between academia, pu
   
 ## Registration
 
-Participation is free, but registration is required. If you would like to attend the workshop, <a class="primary-link" href="https://tally.so/r/Zjqp9z" target="_blank" rel="noopener">register here</a> by December 07, 2026. If you have any questions, please <a class="primary-link" href="ai-sg@ens-paris-saclay.fr">contact us</a>.
+Participation is free, but registration is required. If you would like to attend the workshop, <a class="primary-link" href="https://tally.so/r/Zjqp9z" target="_blank" rel="noopener">register here</a> by December 07, 2026. If you have any questions, please <a class="primary-link" href="mailto:ai-sg@ens-paris-saclay.fr">contact us</a>.
 
 ## Poster session 
 
