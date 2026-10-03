@@ -20,11 +20,11 @@ The workshop aims to foster dialogue across disciplines and between academia, pu
   
 ## Registration
 
-Participation is free, but registration is required. If you would like to attend the workshop, <a class="primary-link" href="https://tally.so/r/Zjqp9z" target="_blank" rel="noopener">register here</a> by December 07, 2026. If you have any questions, please <a class="primary-link" href="mailto:ai-sg@ens-paris-saclay.fr">contact us</a>.
+Participation is free, but registration is required. If you would like to attend the workshop, <a class="primary-link" href="https://tally.so/r/Zjqp9z" target="_blank" rel="noopener">register here</a> by **December 07, 2026**. If you have any questions, please <a class="primary-link" href="mailto:ai-sg@ens-paris-saclay.fr">contact us</a>.
 
 ## Poster session 
 
-A poster session will be held during the lunch break. If you would like to present a poster, please <a class="primary-link" href="https://tally.so/r/7R68x9" target="_blank" rel="noopener">submit your proposal</a> by November 30, 2026. Selection decisions will be communicated shortly thereafter.
+A poster session will be held during the lunch break. If you would like to present a poster, please <a class="primary-link" href="https://tally.so/r/7R68x9" target="_blank" rel="noopener">submit your proposal</a> by **November 30, 2026**. Selection decisions will be communicated shortly thereafter.
 <!-- A poster session will be held during the lunch break. If you would like to present a poster, please <a class="primary-link" href="mailto:mail">ai-sg@ens-paris-saclay.fr</a> us a title and short abstract by November 30, 2026. Selection decisions will be communicated shortly thereafter. -->
 
 ## Organizers
@@ -44,7 +44,9 @@ The organizers aim to make the workshop an enriching and intellectually challeng
 **Sustainability.** We strongly encourage participants to use trains, public transport, and other sustainable transportation options whenever possible.
 
 **Equity and inclusion.** We are committed to providing a harassment-free and inclusive environment. Everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, ethnicity, religion, or status, should feel welcome and comfortable at all times, both during the workshop and associated social events.    
-If you encounter any issue, please do not hesitate to contact the ENS Paris-Saclay equality representative, Claire Lambard, *chargée de mission égalité*, at **[mission.egalite [at] ens-paris-saclay.fr](mailto:mission.egalite@ens-paris-saclay.fr)**.
+If you encounter any issue, please do not hesitate to contact the ENS Paris-Saclay equality representative, Claire Lambard, *chargée de mission égalité*, at 
+<a class="primary-link" href="mailto:mission.egalite [at] ens-paris-saclay.fr">mission.egalite@ens-paris-saclay.fr</a>.
+<--**[mission.egalite [at] ens-paris-saclay.fr](mailto:mission.egalite@ens-paris-saclay.fr)**.-->
 
 <div class="institutional-support">
   <div class="host-institution">
