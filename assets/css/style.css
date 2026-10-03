@@ -266,6 +266,15 @@ main a.primary-link:hover {
   color: #777;
 }
 
+main a.primary-link {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+main a.primary-link:hover {
+  text-decoration: underline;
+}
+
 /* .info-box {
   background: #f4f8fc;
   padding: 1.5rem 1.75rem;
