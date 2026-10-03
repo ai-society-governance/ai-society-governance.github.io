@@ -45,8 +45,8 @@ The organizers aim to make the workshop an enriching and intellectually challeng
 
 **Equity and inclusion.** We are committed to providing a harassment-free and inclusive environment. Everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, ethnicity, religion, or status, should feel welcome and comfortable at all times, both during the workshop and associated social events.    
 If you encounter any issue, please do not hesitate to contact the ENS Paris-Saclay equality representative, Claire Lambard, *chargée de mission égalité*, at 
-<a class="primary-link" href="mailto:mission.egalite [at] ens-paris-saclay.fr">mission.egalite@ens-paris-saclay.fr</a>.
-<--**[mission.egalite [at] ens-paris-saclay.fr](mailto:mission.egalite@ens-paris-saclay.fr)**.-->
+<a class="primary-link" href="mailto:mission.egalite@ens-paris-saclay.fr">mission.egalite [at] ens-paris-saclay.fr</a>.
+<!--**[mission.egalite [at] ens-paris-saclay.fr](mailto:mission.egalite@ens-paris-saclay.fr)**.-->
 
 <div class="institutional-support">
   <div class="host-institution">
