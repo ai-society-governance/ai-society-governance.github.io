@@ -20,11 +20,12 @@ The workshop aims to foster dialogue across disciplines and between academia, pu
   
 ## Registration
 
-Participation is free, but registration is required. If you would like to attend the workshop, <a class="primary-link" href="URL_REGISTRATION">register here</a> by December 07, 2026. If you have any questions, please <a class="primary-link" href="mailto:mail">contact us</a>.
+Participation is free, but registration is required. If you would like to attend the workshop, <a class="primary-link" href="https://tally.so/r/Zjqp9z">register here</a> by December 07, 2026. If you have any questions, please <a class="primary-link" href="ai-sg@ens-paris-saclay.fr">contact us</a>.
 
 ## Poster session 
 
-A poster session will be held during the lunch break. If you would like to present a poster, please <a class="primary-link" href="mailto:mail">email</a> us a title and short abstract by November 30, 2026. Selection decisions will be communicated shortly thereafter.
+A poster session will be held during the lunch break. If you would like to present a poster, please <a class="primary-link" href="https://tally.so/r/7R68x9">submit your proposal</a> by November 30, 2026. Selection decisions will be communicated shortly thereafter.
+<!-- A poster session will be held during the lunch break. If you would like to present a poster, please <a class="primary-link" href="mailto:mail">ai-sg@ens-paris-saclay.fr</a> us a title and short abstract by November 30, 2026. Selection decisions will be communicated shortly thereafter. -->
 
 ## Organizers
 
