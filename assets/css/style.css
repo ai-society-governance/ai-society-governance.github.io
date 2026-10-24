@@ -334,8 +334,9 @@ main a.primary-link:hover {
 
 .speaker-bio summary {
   cursor: pointer;
-  color: var(--body-text);
-  font-size: 0.95rem;
+  color: var(--accent);
+  font-size: 0.9rem;
+  font-weight: 500;
   list-style: none;
   display: inline-flex;
   align-items: center;
@@ -374,14 +375,4 @@ main a.primary-link:hover {
     width: 90px;
     height: 115px;
   }
-}
-
-.speaker-bio summary {
-  cursor: pointer;
-  color: var(--body-text);
-  font-size: 0.95rem;
-  list-style: none;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
 }
