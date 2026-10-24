@@ -375,3 +375,13 @@ main a.primary-link:hover {
     height: 115px;
   }
 }
+
+.speaker-bio summary {
+  cursor: pointer;
+  color: var(--body-text);
+  font-size: 0.95rem;
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
