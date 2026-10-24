@@ -61,8 +61,8 @@ If you encounter any issue, please do not hesitate to contact the ENS Paris-Sacl
   <div class="financial-support">
     <p class="support-heading">Financial support</p>
 
-    <!-- <div class="financial-logos">
-    <a href="https://www.dataia.eu/en/linstitut-dataia-paris-saclay">
+    <div class="financial-logos">
+    <!-- <a href="https://www.dataia.eu/en/linstitut-dataia-paris-saclay">
       <img src="/assets/images/dataia-logo.png"
            alt="DataIA">
     </a> -->
