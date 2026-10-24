@@ -12,11 +12,56 @@ permalink: /speakers/
   
 <div class="speaker">
 
+  <img src="{{ '/assets/images/jason-hartline.jpeg' | relative_url }}"
+       alt="Tianyi Lin">
+
+  <div class="speaker-info">
+    <h3>
+  <a href="https://sites.northwestern.edu/hartline">Jason Hartline
+  </a><</h3>
+    <p class="speaker-affiliation">Northwestern University</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>
+        tba
+      </p>
+    </details>
+  </div>
+
+</div>
+
+<div class="speaker">
+
+  <img src="{{ '/assets/images/daniel-karell.jpeg' | relative_url }}"
+       alt="Daniel Karell">
+
+  <div class="speaker-info">
+    <h3> <a href="https://dkarell.github.io/">Daniel Karell</a></h3>
+    <p class="speaker-affiliation">Yale University</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>
+        Daniel Karell is an Assistant Professor of Sociology at Yale University.
+        His research examines how technological developments, including
+        generative AI, shape society and create new methodological opportunities
+        for social science. His current projects investigate AI-generated
+        materials for experiments, the homogenization of political discourse,
+        and political responses to data centers.
+      </p>
+    </details>
+  </div>
+</div>
+
+
+<div class="speaker">
+
   <img src="{{ '/assets/images/tianyi-lin.jpeg' | relative_url }}"
        alt="Tianyi Lin">
 
   <div class="speaker-info">
-    <h3>Tianyi Lin</h3>
+    <h3><a href="https://ieor.columbia.edu/content/tianyi-lin">Tianyi Lin</a></h3>
     <p class="speaker-affiliation">Columbia University</p>
 
     <details class="speaker-bio">
@@ -33,29 +78,25 @@ permalink: /speakers/
 
 </div>
 
+
 <div class="speaker">
 
-  <img src="{{ '/assets/images/daniel-karell.jpeg' | relative_url }}"
-       alt="Daniel Karell">
+  <img src="{{ '/assets/images/patrick-wu.jpeg' | relative_url }}"
+       alt="Patrick Wu">
 
   <div class="speaker-info">
-    <h3>Daniel Karell</h3>
-    <p class="speaker-affiliation">Yale University</p>
+    <h3> <a href="https://patrickywu.com/">Patrick Wu</a></h3>
+    <p class="speaker-affiliation">American University</p>
 
     <details class="speaker-bio">
       <summary>Bio</summary>
       <p>
-        Daniel Karell is an Assistant Professor of Sociology at Yale University.
-        His research examines how technological developments, including
-        generative AI, shape society and create new methodological opportunities
-        for social science. His current projects investigate AI-generated
-        materials for experiments, the homogenization of political discourse,
-        and political responses to data centers.
+        tba
       </p>
     </details>
   </div>
-
 </div>
+
 </div>
 
 ## Roundtable
@@ -68,8 +109,8 @@ permalink: /speakers/
        alt="Juliette Sénéchal">
 
   <div class="speaker-info">
-    <h3>Juliette Sénéchal</h3>
-    <p class="speaker-affiliation">University of Lille · Inria</p>
+    <h3><a href="https://fr.linkedin.com/in/juliette-s%C3%A9n%C3%A9chal-321160341">Juliette Sénéchal</a></h3>
+    <p class="speaker-affiliation">University of Lille & Inria</p>
 
     <details class="speaker-bio">
       <summary>Bio</summary>
@@ -94,7 +135,7 @@ permalink: /speakers/
        alt="Yann Calvó López">
 
   <div class="speaker-info">
-    <h3>Yann Calvó López</h3>
+    <h3><a href="https://www.linkedin.com/in/yann-calv%C3%B3-l%C3%B3pez/fr">Yann Calvó López</a></h3>
     <p class="speaker-affiliation">Refine Technologies</p>
 
     <details class="speaker-bio">
