@@ -13,12 +13,11 @@ permalink: /speakers/
 <div class="speaker">
 
   <img src="{{ '/assets/images/jason-hartline.jpeg' | relative_url }}"
-       alt="Tianyi Lin">
+       alt="Jason Hartline">
 
   <div class="speaker-info">
     <h3>
-  <a href="https://sites.northwestern.edu/hartline">Jason Hartline
-  </a><</h3>
+  <a href="https://sites.northwestern.edu/hartline">Jason Hartline</a></h3>
     <p class="speaker-affiliation">Northwestern University</p>
 
     <details class="speaker-bio">
