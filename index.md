@@ -58,8 +58,7 @@ If you encounter any issue, please do not hesitate to contact the ENS Paris-Sacl
 </a>
   </div>
 
-  <!-- <div class="financial-support"> -->
-    <div class="host-institution">
+  <div class="financial-support">
     <p class="support-heading">Financial support</p>
 
     <div class="financial-logos">
