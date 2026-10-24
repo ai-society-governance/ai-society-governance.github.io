@@ -12,9 +12,10 @@ permalink: /speakers/
   
 <div class="speaker">
 
-  <img src="{{ '/assets/images/jason-hartline.jpg' | relative_url }}"
-       alt="Jason Hartline">
-
+<img class="photo-jason"
+     src="{{ '/assets/images/jason-hartline.jpg' | relative_url }}"
+     alt="Jason Hartline">
+     
   <div class="speaker-info">
     <h3>
   <a href="https://sites.northwestern.edu/hartline">Jason Hartline</a></h3>
