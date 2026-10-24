@@ -95,15 +95,7 @@ permalink: /speakers/
 
     <details class="speaker-bio">
       <summary>Bio</summary>
-      <p>
-        Yann Calvó López is Co-founder and CEO of Refine Technologies,
-        an applied AI company he founded with Benjamin Golub.
-        Refine develops AI systems designed to identify substantive errors
-        in reasoning, mathematics, and data interpretation. Its tools are
-        used by researchers at more than 1,000 institutions, including
-        universities and central banks. A former Fulbright scholar,
-        he holds a master's degree from Harvard and a bachelor's degree
-        in Economics from UCL.
+      <p> Yann Calvó López is a co-founder and CEO of Refine Technologies, Inc., an applied AI company he co-founded with Benjamin Golub. The company is developing Refine, an AI system specialized in detecting substantive errors: flaws in reasoning, mathematical errors, internal inconsistencies, and conclusions that cannot be supported by the data. Refine is used by researchers at more than 1,000 institutions, including Harvard, MIT, Stanford, and more than 20 central banks. A former Fulbright scholar, he holds a master’s degree in Computational Science and Engineering from Harvard and a bachelor’s degree in economics from UCL.
       </p>
     </details>
   </div>
