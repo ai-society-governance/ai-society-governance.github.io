@@ -297,3 +297,81 @@ main a.primary-link:hover {
 .info-box h2 {
   margin-top: 2rem;
 } */
+
+/* Speakers */
+
+.speaker {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 2.5rem 0;
+}
+
+.speaker > img {
+  width: 125px;
+  height: 155px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.speaker-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.speaker-info h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.15rem;
+  font-weight: 500;
+}
+
+.speaker-affiliation {
+  color: #777;
+  font-size: 0.95rem;
+  margin-bottom: 0.7rem;
+}
+
+.speaker-bio summary {
+  cursor: pointer;
+  color: var(--body-text);
+  font-size: 0.95rem;
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.speaker-bio summary::-webkit-details-marker {
+  display: none;
+}
+
+.speaker-bio summary::after {
+  content: "⌄";
+  font-size: 1.1rem;
+}
+
+.speaker-bio[open] summary::after {
+  content: "⌃";
+}
+
+.speaker-bio summary:hover {
+  color: var(--accent);
+}
+
+.speaker-bio p {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+@media (max-width: 650px) {
+  .speaker {
+    gap: 1rem;
+  }
+
+  .speaker > img {
+    width: 90px;
+    height: 115px;
+  }
+}
