@@ -10,7 +10,7 @@ permalink: /speakers/
 
 <div class="speaker">
 
-  <img src="{{ '/assets/images/tianyi-lin.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/tianyi-lin.jpeg' | relative_url }}"
        alt="Tianyi Lin">
 
   <div class="speaker-info">
@@ -33,7 +33,7 @@ permalink: /speakers/
 
 <div class="speaker">
 
-  <img src="{{ '/assets/images/daniel-karell.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/daniel-karell.jpeg' | relative_url }}"
        alt="Daniel Karell">
 
   <div class="speaker-info">
@@ -61,7 +61,7 @@ permalink: /speakers/
 
 <div class="speaker">
 
-  <img src="{{ '/assets/images/juliette-senechal.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/juliette-senechal.jpeg' | relative_url }}"
        alt="Juliette Sénéchal">
 
   <div class="speaker-info">
@@ -86,7 +86,7 @@ permalink: /speakers/
 
 <div class="speaker">
 
-  <img src="{{ '/assets/images/yann-calvo.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/yann-calvo.jpeg' | relative_url }}"
        alt="Yann Calvó López">
 
   <div class="speaker-info">
