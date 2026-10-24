@@ -153,7 +153,7 @@ permalink: /speakers/
 
   <div class="speaker-info">
     <h3><a href="https://www.linkedin.com/in/yann-calv%C3%B3-l%C3%B3pez/fr">Yann Calvó López</a></h3>
-    <p class="speaker-affiliation">Refine Technologies</p>
+    <p class="speaker-affiliation">Refine Technologies, Inc.</p>
 
     <details class="speaker-bio">
       <summary>Bio</summary>
