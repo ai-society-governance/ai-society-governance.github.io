@@ -68,7 +68,7 @@ If you encounter any issue, please do not hesitate to contact the ENS Paris-Sacl
     </a> -->
 
 <a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-economics-management">
-      <img src="/assets/images/GS-Logo.jpeg"
+      <img src="/assets/images/GS-Logo-h.jpeg"
            alt="Graduate School Economics & Management">
 </a>
     </div>
