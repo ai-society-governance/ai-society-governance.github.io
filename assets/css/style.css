@@ -304,7 +304,7 @@ main a.primary-link:hover {
   display: flex;
   align-items: flex-start;
   gap: 2rem;
-  margin: 2.5rem 0;
+  margin: 2rem 0;
 }
 
 .speaker > img {
@@ -347,13 +347,21 @@ main a.primary-link:hover {
   display: none;
 }
 
+
 .speaker-bio summary::after {
-  content: "⌄";
-  font-size: 1.1rem;
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: rotate(45deg);
+  margin-left: 3px;
+  margin-top: -3px;
 }
 
 .speaker-bio[open] summary::after {
-  content: "⌃";
+  transform: rotate(225deg);
+  margin-top: 3px;
 }
 
 .speaker-bio summary:hover {
