@@ -8,6 +8,8 @@ permalink: /speakers/
 
 ## Invited Speakers
 
+<div class="speakers-grid">
+  
 <div class="speaker">
 
   <img src="{{ '/assets/images/tianyi-lin.jpeg' | relative_url }}"
@@ -54,6 +56,7 @@ permalink: /speakers/
   </div>
 
 </div>
+</div>
 
 ## Roundtable
 
@@ -83,6 +86,7 @@ permalink: /speakers/
 </div>
 
 ### Panelists
+<div class="speakers-grid">
 
 <div class="speaker">
 
@@ -100,4 +104,5 @@ permalink: /speakers/
     </details>
   </div>
 
+</div>
 </div>
