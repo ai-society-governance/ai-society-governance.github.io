@@ -61,13 +61,13 @@ If you encounter any issue, please do not hesitate to contact the ENS Paris-Sacl
   <div class="financial-support">
     <p class="support-heading">Financial support</p>
 
-    <div class="financial-logos">
+    <!-- <div class="financial-logos">
     <a href="https://www.dataia.eu/en/linstitut-dataia-paris-saclay">
       <img src="/assets/images/dataia-logo.png"
            alt="DataIA">
-    </a>
+    </a> -->
 
-<a href="[https://www.dataia.eu/en/linstitut-dataia-paris-saclay](https://www.universite-paris-saclay.fr/graduate-schools/economics-management)">
+<a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-economics-management">
       <img src="/assets/images/gs-economics-management-logo.png"
            alt="Graduate School Economics & Management">
 </a>
