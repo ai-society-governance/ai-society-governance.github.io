@@ -317,8 +317,8 @@ main a.primary-link:hover {
 }
 
 .speaker > img {
-  width: 180px;
-  height: 220px;
+  width: 190px;
+  height: 230px;
   object-fit: cover;
   border-radius: 4px;
   margin-bottom: 0.9rem;
