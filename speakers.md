@@ -78,6 +78,23 @@ permalink: /speakers/
 
 </div>
 
+<div class="speaker">
+
+  <img src="{{ '/assets/images/eduard-talamas.jpg' | relative_url }}"
+       alt="Eduard Talamas">
+
+  <div class="speaker-info">
+    <h3> <a href="https://www.eduardtalamas.com/">Eduard Talamàs</a></h3>
+    <p class="speaker-affiliation">IESE</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>
+        tba
+      </p>
+    </details>
+  </div>
+</div>
 
 <div class="speaker">
 
