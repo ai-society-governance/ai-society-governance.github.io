@@ -152,7 +152,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
 <div class="speaker">
 
-  <img src="{{ '/assets/images/noe-berseman.jpeg' | relative_url }}"
+  <img src="{{ '/assets/images/noe-berserman.jpeg' | relative_url }}"
        alt="Noé Berseman">
 
   <div class="speaker-info">
