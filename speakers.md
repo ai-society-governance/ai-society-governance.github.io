@@ -102,7 +102,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
 <div class="speaker">
 
-  <img src="{{ '/assets/images/patrick-wu.jpeg' | relative_url }}"
+  <img src="{{ '/assets/images/patrick-wu.jpg' | relative_url }}"
        alt="Patrick Wu">
 
   <div class="speaker-info">
@@ -152,6 +152,24 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
 <div class="speaker">
 
+  <img src="{{ '/assets/images/noe-berseman.jpeg' | relative_url }}"
+       alt="Noé Berseman">
+
+  <div class="speaker-info">
+    <h3><a href="https://www.linkedin.com/in/yann-calv%C3%B3-l%C3%B3pez/fr">Noé Berseman</a></h3>
+    <p class="speaker-affiliation">ARCOM</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p> Noé Beserman heads the Data and Technology Department at Arcom, the French regulatory authority for audiovisual and digital communication. His team works as an applied research unit that designs, evaluates and deploys AI and data science methods for regulation: observing the broadcast and online information space, detecting and qualifying AI-generated content, auditing recommender systems and systemic risks on online platforms under the Digital Services Act, and opening platform data to researchers. Trained in statistical physics at the École normale supérieure and Cornell University, his work focuses on the computational measurement of the public sphere, and how to evaluate the AI systems that regulators themselves increasingly rely on.
+      </p>
+    </details>
+  </div>
+
+</div>
+
+<div class="speaker">
+
   <img src="{{ '/assets/images/yann-calvo.jpeg' | relative_url }}"
        alt="Yann Calvó López">
 
@@ -167,4 +185,5 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
   </div>
 
 </div>
+
 </div>
