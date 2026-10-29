@@ -1,4 +1,3 @@
-eduar
 ---
 layout: default
 title: Speakers
