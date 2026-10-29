@@ -399,9 +399,9 @@ main a.primary-link:hover {
 /* Individual portrait adjustments */
 
 .speaker > img.photo-left {
-  object-position: 65% center;
+  object-position: 85% center;
 }
 
 .speaker > img.photo-up {
-  object-position: center 70%;
+  object-position: center 90%;
 }
