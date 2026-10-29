@@ -90,7 +90,11 @@ permalink: /speakers/
     <details class="speaker-bio">
       <summary>Bio</summary>
       <p>
-        tba
+  Eduard Talamàs is an Associate Professor of Economics at IESE Business School in Barcelona. He studies the impact of artificial intelligence on the knowledge economy. His work on this topic has appeared in the Journal of Political Economy and other top economics journals. 
+Eduard is a Digital Fellow at Stanford’s Digital Economy Lab, a Research Affiliate at the Centre for Economic Policy Research, and a Research Fellow at the Barcelona School of Economics. His research is also supported by Google through its inaugural AI & Economy Researchers Program. 
+In 2025, Eduard coauthored “Transformative AI and Firms,” a research agenda chapter in the NBER volume The Economics of Transformative AI. Since then, he organizes the Economics of Transformative AI workshop at the Barcelona School of Economics Summer Forum and teaches a second-year MBA elective on this topic at IESE.
+Eduard received his Ph.D. in Economics from Harvard University in 2017 and subsequently was a postdoctoral fellow at the University of Pennsylvania’s Warren Center for Network and Data Sciences. He was named one of Poets&Quants’ Best 40 Under 40 MBA Professors in 2022.
+
       </p>
     </details>
   </div>
@@ -108,7 +112,7 @@ permalink: /speakers/
     <details class="speaker-bio">
       <summary>Bio</summary>
       <p>
-        tba
+        Patrick Y. Wu is an Assistant Professor of Computer Science at American University, where he works at the intersection of AI and political science. His research approaches AI from two directions. First, he develops machine learning and NLP methods for addressing research questions on topics such as political ideology, affective polarization on social media, and hateful and abusive speech and memes. More recently, he has turned to questions about AI and competition, including competitive dynamics and antitrust issues in the AI industry, as well as competitive concerns raised by the use of AI tools.
       </p>
     </details>
   </div>
