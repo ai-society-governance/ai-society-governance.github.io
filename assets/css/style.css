@@ -395,3 +395,13 @@ main a.primary-link:hover {
 .speaker > img.photo-jason {
   object-position: center 20%;
 }
+
+/* Individual portrait adjustments */
+
+.speaker > img.photo-left {
+  object-position: 65% center;
+}
+
+.speaker > img.photo-up {
+  object-position: center 70%;
+}
