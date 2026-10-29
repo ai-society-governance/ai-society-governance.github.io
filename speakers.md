@@ -1,3 +1,4 @@
+eduar
 ---
 layout: default
 title: Speakers
@@ -80,7 +81,7 @@ permalink: /speakers/
 
 <div class="speaker">
 
-  <img src="{{ '/assets/images/eduard-talamas.jpg' | relative_url }}"
+  <img class="photo-left" src="{{ '/assets/images/eduard-talamas.jpg' | relative_url }}"
        alt="Eduard Talamas">
 
   <div class="speaker-info">
@@ -102,7 +103,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
 <div class="speaker">
 
-  <img src="{{ '/assets/images/patrick-wu.jpg' | relative_url }}"
+  <img class="photo-up" src="{{ '/assets/images/patrick-wu.jpg' | relative_url }}"
        alt="Patrick Wu">
 
   <div class="speaker-info">
