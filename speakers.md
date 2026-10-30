@@ -12,6 +12,26 @@ permalink: /speakers/
   
 <div class="speaker">
 
+<img src="{{ '/assets/images/beatriz-arcila.jpg' | relative_url }}"
+     alt="Beatriz Botero Arcila">
+     
+  <div class="speaker-info">
+    <h3>
+  <a href="https://www.sciencespo.fr/ecole-droit/fr/annuaire/boteroarcila-beatriz/">Beatriz Botero Arcila</a></h3>
+    <p class="speaker-affiliation">Sciences Po</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>
+Beatriz is a law and technology scholar, with a focus on the governance of data and artificial intelligence, and digital surveillance. She is an Assistant Professor of Law at Sciences Po Law School and a Faculty Associate at the Berkman Klein Center for Internet and Society at Harvard University. She holds an LLM and a doctorate from Harvard Law School where she defended a dissertation on the governance of smart cities, urban platforms and the data they collect. 
+      </p>
+    </details>
+  </div>
+
+</div>
+
+<div class="speaker">
+
 <img class="photo-jason"
      src="{{ '/assets/images/jason-hartline.jpg' | relative_url }}"
      alt="Jason Hartline">
