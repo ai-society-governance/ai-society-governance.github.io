@@ -176,7 +176,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
        alt="Noé Beserman">
 
   <div class="speaker-info">
-    <h3><a href="https://www.linkedin.com/in/yann-calv%C3%B3-l%C3%B3pez/fr">Noé Beserman</a></h3>
+    <h3><a href="https://fr.linkedin.com/in/no%C3%A9-beserman-0b9178185">Noé Beserman</a></h3>
     <p class="speaker-affiliation">ARCOM</p>
 
     <details class="speaker-bio">
