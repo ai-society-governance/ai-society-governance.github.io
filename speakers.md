@@ -12,6 +12,24 @@ permalink: /speakers/
   
 <div class="speaker">
 
+<img src="{{ '/assets/images/salome-do.jpg' | relative_url }}"
+     alt="Salomé Do">
+     
+  <div class="speaker-info">
+    <h3>
+  <a href="https://sally14.github.io/"Salomé DO</a></h3>
+    <p class="speaker-affiliation">Médialab, Sciences Po</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>tba 
+      </p>
+    </details>
+  </div>
+
+</div>
+<div class="speaker">
+
 <img src="{{ '/assets/images/beatriz-arcila.jpg' | relative_url }}"
      alt="Beatriz Botero Arcila">
      
