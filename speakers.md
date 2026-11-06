@@ -118,6 +118,26 @@ Beatriz is a law and technology scholar, with a focus on the governance of data 
 
 <div class="speaker">
 
+<img src="{{ '/assets/images/richard-rogers.jpg' | relative_url }}"
+     alt="Richard Rogers">
+     
+  <div class="speaker-info">
+    <h3>
+  <a href="https://www.uva.nl/en/profile/r/o/r.a.rogers/r.a.rogers.html"Richard Rogers</a></h3>
+    <p class="speaker-affiliation">University of Amsterdam</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>tba 
+      </p>
+    </details>
+  </div>
+
+</div>
+
+
+<div class="speaker">
+
   <img class="photo-left" src="{{ '/assets/images/eduard-talamas.jpg' | relative_url }}"
        alt="Eduard Talamas">
 
@@ -136,6 +156,44 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
       </p>
     </details>
   </div>
+</div>
+
+<div class="speaker">
+
+<img src="{{ '/assets/images/juana-torres.jpg' | relative_url }}"
+     alt="Juana Torres-Cierpe">
+     
+  <div class="speaker-info">
+    <h3>
+  <a href="https://scholar.google.fr/citations?user=twxsZEcAAAAJ&hl=en&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D79a38ce66da22b20:TM%3D1794001352:C%3Dr:IP%3D37.65.172.76-:S%3DwYJ9Uzaf8N4Gn8vQWsFP6Xk%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DSat,+07-Nov-2026+00:42:32+GMT"Juana Torres-Cierpe</a></h3>
+    <p class="speaker-affiliation">Inria</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>tba 
+      </p>
+    </details>
+  </div>
+
+</div>
+
+<div class="speaker">
+
+<img src="{{ '/assets/images/marissa-willcox.jpg' | relative_url }}"
+     alt="Marissa Willcox">
+     
+  <div class="speaker-info">
+    <h3>
+  <a href="https://scholar.google.com/citations?user=Nmq5tNkAAAAJ&hl=en"Marissa Willcox</a></h3>
+    <p class="speaker-affiliation">University of Leeds</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>tba 
+      </p>
+    </details>
+  </div>
+
 </div>
 
 <div class="speaker">
