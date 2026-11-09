@@ -62,7 +62,7 @@ Beatriz is a law and technology scholar, with a focus on the governance of data 
     <details class="speaker-bio">
       <summary>Bio</summary>
       <p>
-        tba
+        Jason Hartline is the director of Northwestern’s Online Markets Lab, he was a founding codirector of the Institute for Data, Econometrics, Algorithms, and Learning from 2019-2022, and is a cofounder of virtual conference organizing platform Virtual Chair. Jason is a Visiting Professor at ENS Paris-Saclay and the Centre for Economics at Paris-Saclay for the 2026-2027 academic year. His research introduces design and analysis methodologies from computer science to understand and improve outcomes of economic, legal, and AI systems. Optimal behavior and outcomes in complex environments are complex and, therefore, should not be expected; instead, the theory of approximation can show that simple and natural behaviors are approximately optimal in complex environments. This approach is applied to auction theory and mechanism design in his graduate textbook Mechanism Design and Approximation which is under preparation.
       </p>
     </details>
   </div>
