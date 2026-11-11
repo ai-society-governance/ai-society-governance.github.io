@@ -179,6 +179,25 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
 <div class="speaker">
 
+<img src="{{ '/assets/images/philine-widmer.jpg' | relative_url }}"
+     alt=" Philine Widmer">
+     
+  <div class="speaker-info">
+    <h3>
+  <a href="https://philinew.github.io/"> Philine Widmer</a></h3>
+    <p class="speaker-affiliation">UniDistance Suisse</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>tba 
+      </p>
+    </details>
+  </div>
+
+</div>
+
+<div class="speaker">
+
 <img src="{{ '/assets/images/marissa-willcox.jpg' | relative_url }}"
      alt="Marissa Willcox">
      
