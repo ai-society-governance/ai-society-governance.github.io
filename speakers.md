@@ -189,7 +189,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
     <details class="speaker-bio">
       <summary>Bio</summary>
-      <p>tba 
+      <p>Philine Widmer is an Associate Professor at UniDistance Suisse and an Affiliated Researcher at Paris School of Economics. She studies how artificial intelligence, social media, and news media relate to politics and the economy. She also builds tools that help social scientists learn from unstructured data such as text, images, and video. One of her most prominent projects shows that the feed algorithm of X shifts users' political opinions in a more conservative direction (published in Nature in 2026). She was previously a postdoctoral researcher at ETH Zurich and received her PhD in economics from the University of St.Gallen.
       </p>
     </details>
   </div>
