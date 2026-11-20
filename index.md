@@ -12,11 +12,24 @@ title:
 
 ## Overview
 
-Artificial intelligence increasingly shapes the production, dissemination, and use of information in society. Yet AI is not simply an exogenous technology acting upon social, economic, and political systems. It both shapes and is shaped by human behaviour, institutions, and information environments.
+AI technology is often framed as an external force currently transforming our society. This workshop take a different perspective by focusing on how this relationship runs both ways. Human behaviour, information environments and institutions can potentially shape how AI evolves; and in turn AI systems can alter social, political and economic outcomes.
+
+AI│SG workshop brings together researchers in economics, law, computer science and sociology to study these feedback loops, combining theoretical, qualitative and computational methods. Topics include: 
+- AI adoption in the workplace and its labour market effects
+- Pricing by LLM agents and market competition
+- AI liability and regulation
+- AI in newsrooms and the information environment
+- AI safety and governance
+
+### Panel discussion
+
+The workshop ends with a panel discussion on AI governance in practice, moderated by Juliette Sénéchal (University of Lille and Inria). Panelists: <a class="primary-link" href="https://www.ivir.nl/profile/irion/" target="_blank" rel="noopener">Kristina Irion</a> (IViR, University of Amsterdam), Yann Calvó López (Refine Technologies), representatives from <a class="primary-link" href="https://www.arcom.fr/en" target="_blank" rel="noopener">Arcom</a> (French regulatory authority for audiovisual and digital communication) and <a class="primary-link" href="https://www.peren.gouv.fr/fr/" target="_blank" rel="noopener">PEReN</a> (center of expertise of digital platform regulation). 
+
+<!-- Artificial intelligence increasingly shapes the production, dissemination, and use of information in society. Yet AI is not simply an exogenous technology acting upon social, economic, and political systems. It both shapes and is shaped by human behaviour, institutions, and information environments.
 
 The Workshop on AI, Society and Governance brings together researchers from economics, political science, law, computer science, mathematics and related disciplines to study these interactions and their implications. Topics include information quality, human & AI interactions, collective decision-making, markets and strategic interactions, democratic processes, AI governance and regulation and systemic risks.
 
-The workshop aims to foster dialogue across disciplines and between academia, public institutions, and industry. A roundtable with regulators and industry experts will complement the academic program.
+The workshop aims to foster dialogue across disciplines and between academia, public institutions, and industry. A roundtable with regulators and industry experts will complement the academic program. -->
   
 ## Registration
 
