@@ -160,7 +160,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
 <div class="speaker">
 
-<img src="{{ '/assets/images/juana-torres.jpg' | relative_url }}"
+<img src="{{ '/assets/images/juana-torres.jpeg' | relative_url }}"
      alt="Juana Torres-Cierpe">
      
   <div class="speaker-info">
