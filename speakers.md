@@ -170,7 +170,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
     <details class="speaker-bio">
       <summary>Bio</summary>
-      <p>tba 
+      <p>Juana holds a PhD in Social Sciences and Economics from the University of Kassel (Germany) and is a labour sociologist. Currently a researcher at LaborIA (Inria, France), her research focuses on the effects of the introduction of AI into the world of work in the French context, particularly in the public sector. Her previous research examined the human labour underpinning artificial intelligence and its outsourcing to countries in the Global South, with a particular focus on Latin America. She has also investigated platform labour, notably food delivery workers and ride-hailing drivers, particularly through her work with the International Transport Workers’ Federation (ITF) in London. Earlier in her career, she worked in Chile for United Nations organisations such as ECLAC, FAO and UNDP.
       </p>
     </details>
   </div>
