@@ -289,8 +289,8 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
        alt="Kristina Irion">
 
   <div class="speaker-info">
-    <h3><a class="primary-link" href="https://www.ivir.nl/profile/irion/" target="_blank" rel="noopener">Kristina Irion</a> (IViR, University of Amsterdam)</h3>
-    <p class="speaker-affiliation">Refine Technologies, Inc.</p>
+    <h3><a class="primary-link" href="https://www.ivir.nl/profile/irion/" target="_blank" rel="noopener">Kristina Irion</a></h3>
+    <p class="speaker-affiliation">IViR, University of Amsterdam</p>
 
     <details class="speaker-bio">
       <summary>Bio</summary>
@@ -326,7 +326,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
        alt="PEReN">
 
   <div class="speaker-info">
-    <h3><a class="primary-link" href="https://www.ivir.nl/profile/irion/" target="_blank" rel="noopener">To be announced</a> (IViR, University of Amsterdam)</h3>
+    <h3><a class="primary-link" href="https://www.peren.gouv.fr/en/" target="_blank" rel="noopener">To be announced</a></h3>
     <p class="speaker-affiliation">PEReN</p>
 
     <details class="speaker-bio">
