@@ -326,7 +326,7 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
        alt="PEReN">
 
   <div class="speaker-info">
-    <h3><a class="primary-link" href="https://www.peren.gouv.fr/en/" target="_blank" rel="noopener">To be announced</a></h3>
+    <h3><a class="primary-link" href="https://www.peren.gouv.fr/en/" target="_blank" rel="noopener">Panelist from PEReN to be announced</a></h3>
     <p class="speaker-affiliation">PEReN</p>
 
     <details class="speaker-bio">
