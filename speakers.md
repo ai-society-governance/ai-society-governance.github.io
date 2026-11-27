@@ -285,6 +285,25 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
 
 <div class="speaker">
 
+  <img src="{{ '/assets/images/kristina-irion.jpeg' | relative_url }}"
+       alt="Kristina Irion">
+
+  <div class="speaker-info">
+    <h3><a class="primary-link" href="https://www.ivir.nl/profile/irion/" target="_blank" rel="noopener">Kristina Irion</a> (IViR, University of Amsterdam)</h3>
+    <p class="speaker-affiliation">Refine Technologies, Inc.</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p> tba
+      </p>
+    </details>
+  </div>
+
+</div>
+
+
+<div class="speaker">
+
   <img src="{{ '/assets/images/yann-calvo.jpeg' | relative_url }}"
        alt="Yann Calvó López">
 
@@ -300,5 +319,24 @@ Eduard received his Ph.D. in Economics from Harvard University in 2017 and subse
   </div>
 
 </div>
+
+<div class="speaker">
+
+  <img src="{{ '/assets/images/PEReN.jpeg' | relative_url }}"
+       alt="PEReN">
+
+  <div class="speaker-info">
+    <h3><a class="primary-link" href="https://www.ivir.nl/profile/irion/" target="_blank" rel="noopener">To be announced</a> (IViR, University of Amsterdam)</h3>
+    <p class="speaker-affiliation">PEReN</p>
+
+    <details class="speaker-bio">
+      <summary>Bio</summary>
+      <p>PEReN is an interministerial office with national competence placed under the joint authority of the French ministers responsible for the economy, culture and digital affairs. PEReN is a centre of both technical specialisation and mutualisation. It capitalises on behalf of the State on skills and methods based on the latest knowledge, which it makes available to State services (since its creation in August 2020) and independent authorities (since the law of 25 October 2021) involved in the regulation of digital platforms.
+      </p>
+    </details>
+  </div>
+
+</div>
+
 
 </div>
